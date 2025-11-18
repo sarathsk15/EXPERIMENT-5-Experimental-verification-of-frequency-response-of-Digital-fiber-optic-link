@@ -35,7 +35,7 @@ Fiber optic links can be used for transmission of digital as well as analog sign
    c. Connect detector 1's output to comparator 1’s input.  
    d. Connect comparator 1's output to AC amplifier 1's input.  
 4. On the board, switch emitter 1's driver to digital mode.  
-5. Switch on the power.  
+5. Switch on the power.  .
 6. Monitor both the inputs to comparator 1 (TP13 & TP14). Slowly adjust the comparator's bias preset until the DC level on TP13 lies midway between the high and low levels of the signal on TP14.  
 7. Observe the input to emitter 1 (TP5) and the output from AC amplifier 1 (TP28). Verify that both signals are identical.  
 8. Vary the frequency between 10 Hz to 1 MHz and observe the output voltage for a constant input voltage of 5V.  
